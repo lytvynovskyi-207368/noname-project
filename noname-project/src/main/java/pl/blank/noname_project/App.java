@@ -11,6 +11,7 @@ public class App {
     }
 
 
+    @SuppressWarnings("unused")
     private String mateuszFunction(String value) {
         return "Hello: " + value;
     }
