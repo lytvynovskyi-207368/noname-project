@@ -25,4 +25,9 @@ public class App {
 	public static String sayMyName() {
 		return "Bartłomiej";
 	}
+        
+        public void agnieszka() {
+		System.out.println("Agnieszka");
+		
+	}
 }
